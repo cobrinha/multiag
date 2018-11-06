@@ -1,7 +1,3 @@
-'''EXEMPLO DE MULTIAGENTES - Python e VPython
-Diego CB <diegocb@gmail.com>
-'''
-
 from visual import *
 from Tkinter import *
 import time
